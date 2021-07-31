@@ -1,1 +1,7 @@
 build
+test/wpapsk-virgin_broadband.dump
+test/dict
+test/wpa2psk-linksys.dump
+test/wpa2psk-MOM1.dump
+test/wpa2psk-2WIRE972.dump
+test/WPA_eapol_filtered.cap
